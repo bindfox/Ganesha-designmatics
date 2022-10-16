@@ -1,0 +1,28 @@
+body {
+  background-image: url("bg1.jpg");
+}
+#contactus {
+  font-size: 3em;
+  text-transform: capitalize;
+  margin-top: 100px;
+}
+#text1 {
+  font-size: 2em;
+  color: rgb(42, 223, 18);
+  text-align: center;
+  margin-top: 150px;
+  margin-left: 150px;
+}
+#mail {
+  color: white;
+  margin-top: 150px;
+  margin-left: 250px;
+}
+#call {
+  color: white;
+  margin-left: 250px;
+}
+a {
+  color: aqua;
+  font-size: 10vh;
+}
